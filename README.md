@@ -22,6 +22,7 @@ le chiffre d’affaires, le comportement des clients et la performance des produ
 
 **Outils utilisés :**
 - Excel
+- Graphiques fournis par OC
 - Données e-commerce fournies par OpenClassrooms
 
 ## 📊 Résultats & livrables
