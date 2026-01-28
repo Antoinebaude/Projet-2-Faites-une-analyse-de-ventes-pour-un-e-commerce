@@ -21,8 +21,7 @@ le chiffre d’affaires, le comportement des clients et la performance des produ
 - Visualisation des résultats
 
 **Outils utilisés :**
-- Python (Pandas, Matplotlib / Seaborn)
-- Jupyter Notebook
+- Excel
 - Données e-commerce fournies par OpenClassrooms
 
 ## 📊 Résultats & livrables
